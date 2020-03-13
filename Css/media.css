@@ -147,13 +147,13 @@
   }
 
   .players > :first-child > :first-child .player {
-    background-image: url("/Assets/Images/Players/team-ts-logo.png");
+    background-image: url("./Assets/Images/Players/team-ts-logo.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
   }
 
   .players > :first-child > :last-child .player {
-    background-image: url("/Assets/Images/Players/team-legion-logo.png");
+    background-image: url("./Assets/Images/Players/team-legion-logo.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
   }
