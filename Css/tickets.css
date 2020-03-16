@@ -34,7 +34,6 @@ header {
   z-index: 200;
 }
 
-
 nav {
   display: flex;
   justify-content: space-between;
@@ -211,7 +210,6 @@ ul {
   align-items: center;
   justify-content: flex-end;
 }
-
 
 /* li */
 body li {
