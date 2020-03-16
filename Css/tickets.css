@@ -34,10 +34,11 @@ header {
   z-index: 200;
 }
 
-button {
-  margin: 5px 5px;
-  border-radius: 10px;
-  border: 1px solid #272a31;
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 main {
@@ -78,6 +79,12 @@ footer {
 }
 
 /* div */
+footer > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .social-and-personal-settings {
   background-color: rgb(59, 60, 63);
   padding: 5px 0;
@@ -198,6 +205,13 @@ ul {
   margin: 0;
   padding-left: 0 !important;
 }
+
+.social-and-personal-settings ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
 
 /* li */
 body li {
