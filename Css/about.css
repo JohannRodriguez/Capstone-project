@@ -36,6 +36,9 @@ header {
 nav {
   padding: 0 200px;
   background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 main {
@@ -74,6 +77,12 @@ h4 {
 }
 
 /* div */
+footer > div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .social-and-personal-settings {
   background-color: rgb(59, 60, 63);
   padding: 5px 0;
@@ -109,6 +118,9 @@ main :nth-child(3) {
   width: calc(100% - 20px);
   border: 2px solid #ec5242;
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .article-background-img {
@@ -203,6 +215,12 @@ nav ul :nth-child(2) a {
 ul {
   margin: 0;
   padding-left: 0 !important;
+}
+
+.social-and-personal-settings ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 /* li */
