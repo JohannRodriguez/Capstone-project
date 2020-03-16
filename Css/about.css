@@ -38,12 +38,6 @@ nav {
   background-color: white;
 }
 
-nav button {
-  background: none;
-  border: 4px solid #ec5242;
-  margin-left: 40px;
-}
-
 main {
   padding-top: 250px !important;
   padding-bottom: 100px !important;
@@ -159,10 +153,13 @@ main a {
   font-weight: bold;
 }
 
-nav button a {
+.tickets-link {
   color: #ec5242;
   padding: 5px 10px;
   font-weight: bold;
+  background: none;
+  border: 4px solid #ec5242;
+  margin-left: 40px;
 }
 
 .social-and-personal-settings a {
@@ -186,7 +183,7 @@ main a:hover {
   color: #ec5242;
 }
 
-nav button a:hover {
+.tickets-link:hover {
   background-color: transparent;
   color: #ec5242;
   font-weight: bold;

@@ -217,7 +217,7 @@
 }
 
 @media (max-width: 550px) {
-  nav button {
+  .tickets-btn {
     position: absolute;
     top: -228px;
     left: -20px;
@@ -228,7 +228,7 @@
     text-align: start;
   }
 
-  .tickets-btn {
+  nav ul > :last-child a {
     display: none;
   }
 
@@ -239,7 +239,7 @@
     text-align: start !important;
   }
 
-  #menu:checked ~ .nav-menu > :nth-child(5) button {
+  #menu:checked ~ .nav-menu > :nth-child(5) a {
     top: 228px;
     transition: 0.5s;
   }
