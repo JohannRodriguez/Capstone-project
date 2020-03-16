@@ -188,7 +188,6 @@ nav a {
   padding: 5px 10px;
   background: none;
   border: 4px solid #ec5242;
-  color: #ec5242;
   margin-left: 40px;
   font-weight: bold;
 }
@@ -236,14 +235,14 @@ ul {
   text-align: start;
 }
 
+nav ul {
+  padding-left: 0;
+}
+
 .social-and-personal-settings ul {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-}
-
-nav ul {
-  padding-left: 0;
 }
 
 .sponsors-section ul {
