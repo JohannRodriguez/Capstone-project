@@ -1,63 +1,47 @@
-# Project Name
+# Capstone Event Page
 
-> One paragraph statement about the project.
+> This is a project of Microverse about imitate a Cindy Shin's Global Summit page.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./screenshot.png)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML
+- CSS
+- Boothstrap
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Watch the project on you browser!](https://dazzling-hugle-b56b13.netlify.com/)
 
+## Requirements
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Use semantic HTML tags.
+- Use semantic HTML tags.
+- Use HTML elements box model (margin, padding, width, height).
+- Use industry-standard tools (flexbox) to place elements in the page.
+- Ability to create UIs adaptable to different screen sizes using mediaqueries.
+- Apply front-end best practices.
+- Ability to create UIs adjusted to given designs.
+- Strong English written and verbal communication.
+- Ability to communicate information effectively to technical and non-technical people.
+- Ability to translate business requirements into software solutions.
+- Ability to work well in a fast-paced environment under deadlines.
+- Ability to perform tasks and complete projects with minimal supervision.
 
 ## Authors
 
-👤 **Author1**
+👤 **Johann Alonso Rodríguez Vázquez**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@JohannRodriguez](https://github.com/JohannRodriguez)
+- Twitter: [@BSapce](https://https://twitter.com/BSapce)
+- Linkedin: [Johann Rodríguez](https://www.linkedin.com/in/johann-alonso-rodr%C3%ADguez-v%C3%A1zquez-25b07719a/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/JohannRodriguez/Capstone-project-conference-page/issues).
 
 ## Show your support
 
@@ -65,9 +49,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- To Cindy Shin and her project CC Global Summit 2015, in which I based to make this project, yo can check the original material here: [Cindy Shin CC Global Summit 2015](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 ## 📝 License
 
