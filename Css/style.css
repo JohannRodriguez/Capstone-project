@@ -27,6 +27,12 @@ header {
   z-index: 200;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 main {
   padding-top: 250px !important;
   padding-bottom: 200px !important;
@@ -35,6 +41,8 @@ main {
 footer {
   padding: 50px !important;
   padding-bottom: 50px !important;
+  display: flex;
+  align-items: center;
 }
 
 /* div */
@@ -228,8 +236,21 @@ ul {
   text-align: start;
 }
 
+.social-and-personal-settings ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
 nav ul {
   padding-left: 0;
+}
+
+.sponsors-section ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 /* li */
