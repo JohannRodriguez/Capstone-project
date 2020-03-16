@@ -217,10 +217,10 @@
 }
 
 @media (max-width: 550px) {
-  .tickets-btn {
+  .tickets-link {
     position: absolute;
     top: -228px;
-    left: -20px;
+    left: 20px;
     width: 445px;
     background-color: white;
     transition: 0.5s;
@@ -228,7 +228,7 @@
     text-align: start;
   }
 
-  nav ul > :last-child a {
+  .hidden-ticket {
     display: none;
   }
 
@@ -245,6 +245,11 @@
 
   .menu-btn {
     left: 20px;
+  }
+
+  .tickets-link:hover {
+    font-weight: bold;
+    background-color: white;
   }
 
   .nav-menu > :first-child a {
